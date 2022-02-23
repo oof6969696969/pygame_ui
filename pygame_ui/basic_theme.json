@@ -1,0 +1,36 @@
+{
+  "btn": {
+    "btn_colour_normal": [180, 180, 180],
+    "btn_colour_hover": [160, 160, 160],
+    "btn_colour_click": [210, 210, 210],
+    "btn_colour_border": [140, 140, 140],
+    "btn_radius_border": 10,
+    "btn_size_border": 4,
+    "btn_font": "C:/Windows/Fonts/arial.ttf",
+    "btn_font_size": 30,
+    "btn_font_colour": [0, 0, 0]
+  },
+
+  "txt": {
+    "txt_colour": [0, 0, 0],
+    "txt_font": "C:/Windows/Fonts/arial.ttf",
+    "txt_font_size": 50
+  },
+
+  "tgl": {
+    "tgl_fill_false_colour": [255, 255, 255],
+    "tgl_fill_true_colour": [0, 255, 0],
+    "tgl_main_colour": [0, 0, 0],
+    "tgl_border_width": 4
+  },
+
+  "wds": {
+    "wds_border_width": 2,
+    "wds_border_colour": [160, 160, 160],
+    "wds_title_font_height": 12,
+    "wds_border_radius": 10,
+    "wds_title_font_colour": [0, 0, 0],
+    "wds_title_font": "C:/Windows/Fonts/arial.ttf",
+    "wds_close_btn_colour": [255, 0, 0]
+  }
+}
